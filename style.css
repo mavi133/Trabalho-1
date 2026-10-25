@@ -4,19 +4,14 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color: rgb(231, 231, 186);
+    background-color: rgb(255, 255, 210);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
 }
 
-input{
-    display: flex; 
-    width: 300px;
-    padding: 10px;
-    margin-bottom: 10px;
+.livro1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font: 200;
+    align-items: center;
 }
 
-.container{
-    background-color: rgb(139, 105, 35);
-    border: 2px solid #ccc;
-    padding: 30px;
-    border-radius: 8px;
-}

@@ -1,0 +1,22 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: rgb(231, 231, 186);
+}
+
+input{
+    display: flex; 
+    width: 300px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.container{
+    background-color: rgb(139, 105, 35);
+    border: 2px solid #ccc;
+    padding: 30px;
+    border-radius: 8px;
+}
